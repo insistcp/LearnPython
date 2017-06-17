@@ -1,0 +1,316 @@
+
+
+Home
+
+
+
+
+ addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } 
+
+
+
+
+
+
+
+
+
+
+		$(window).load(function(){
+		  $('.flexslider').flexslider({
+			animation: "slide",
+			start: function(slider){
+			  $('body').removeClass('loading');
+			}
+		  });
+		});
+	  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Freehold
+
+
+
+
+
+Home
+About
+Gallery
+
+Short Codes 
+
+Icons
+Typography
+
+
+Contact
+
+
+
+
+
+
+Lorem ipsum dolor sit amet . 
+Mauris ut metus sit amet magna vehicula eleifend in in urna.
+
+
+
+Proin dolor tellus, vitae
+Curabitur diam lorem, ultricies
+molestie maximus ultrices
+elementum sodales urna
+rhoncus in mattis pretium
+
+
+
+
+
+
+
+
+
+
+How We Work For You
+Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit semper rutrum ipsum et velit semper  bibendum.
+
+
+
+
+
+
+Semper rutrum
+Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit semper rutrum ipsum et velit semper  bibendum.
+
+
+
+
+
+
+
+Condimentum 
+Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit semper rutrum ipsum et velit semper  bibendum.
+
+
+
+
+
+
+
+Rutrum ipsum
+Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit semper rutrum ipsum et velit semper  bibendum.
+
+
+ 
+
+
+
+
+
+
+
+voluptate velit esse quam
+Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam 
+				nihil molestiae consequatur.
+
+
+
+autem vel eum iure
+Ut enim ad minima veniam, quis nostrum exercit.
+
+
+
+ea voluptate velit
+Ut enim ad minima veniam, quis nostrum exercit.
+
+ 
+
+
+
+
+minima veniam eum
+Ut enim ad minima veniam, quis nostrum exercit.
+
+
+
+quis nostrum exer
+Ut enim ad minima veniam, quis nostrum exercit.
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Temporibus autem
+Libero tempore, cum soluta nobis est eligendi 
+											optio cumque nihil impedit quo minus id quod maxime 
+											placeat facere possimus  ut 
+											et voluptates repudiandae sint et molestiae non recusandae
+
+
+
+
+
+
+
+
+
+
+Temporibus autem
+Libero tempore, cum soluta nobis est eligendi 
+											optio cumque nihil impedit quo minus id quod maxime 
+											placeat facere possimus  ut 
+											et voluptates repudiandae sint et molestiae non recusandae
+
+
+
+
+
+
+
+
+
+
+Temporibus autem
+Libero tempore, cum soluta nobis est eligendi 
+											optio cumque nihil impedit quo minus id quod maxime 
+											placeat facere possimus  ut 
+											et voluptates repudiandae sint et molestiae non recusandae
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our Recent Works
+
+
+
+
+
+Nullam tristique
+Pellentesque auctor euismod lectus a pretium. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus.
+
+ Nullam tristique faucibus pharetra.
+ Pellentesque auctor
+
+
+
+
+
+
+Euismod lectus 
+Pellentesque auctor euismod lectus a pretium. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus .
+
+ Nullam tristique faucibus pharetra.
+ Pellentesque auctor
+
+
+
+
+
+
+Curabitur non 
+Pellentesque auctor euismod lectus a pretium. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus .
+
+ Nullam tristique faucibus pharetra.
+ Pellentesque auctor
+
+
+
+ 
+
+
+
+
+
+
+
+QUICK LINKS
+
+Home
+About
+Gallery
+Short Codes
+Contact
+
+
+
+SUPPORT
+
+ 7th Street, Melbourne City, Australia.
+info@example.com
+ (4584) 5689 0254 128
+
+
+
+NEWSLETTER
+Quis autem vel eum iure reprehenderit qui in ea voluptate velit reprehenderit qui in ea.
+
+
+
+
+
+
+
+
+Copyright © 2017.Company name All rights reserved.网页模板
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
